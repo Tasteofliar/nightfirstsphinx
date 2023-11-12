@@ -12,14 +12,6 @@ src.nightFunc module
    :undoc-members:
    :show-inheritance:
 
-src.task module
----------------
-
-.. automodule:: src.task
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 src.yourinfoFunc module
 -----------------------
 
