@@ -5,7 +5,7 @@ def yourinfo(name,age,gender):
     :param int age: input your age.
     :param str name: input your gender.
 
-    :returns: your information.
+    :returns: your Personal information.
     :rtype: str
 
     Example
@@ -26,6 +26,3 @@ def yourinfo(name,age,gender):
     '''
     profile = "name: {}\nage: {}\ngender: {}".format(name,age,gender)
     return profile
-
-myinfo = yourinfo("May","20","female")
-print(myinfo)
