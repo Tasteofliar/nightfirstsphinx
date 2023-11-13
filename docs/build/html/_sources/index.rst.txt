@@ -3,14 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to nightfirstsphinx's documentation!
+nightfirstsphinx's API
 ============================================
 
+**********
+User Guide
+**********
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
 
    modules
+   quickstart
+   reference
 
 Indices and tables
 ==================
